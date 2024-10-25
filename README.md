@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/manemyamani/my_portfolio)
 
-- 🌱 I’m currently learning **Advanced JavaScript Concepts**
+- 🌱 I’m currently learning **Generative AI Techniques**
 
 - 👯 I’m looking to collaborate on [AuraAssist Test](https://github.com/manemyamani/AuraAssist_Test)
 

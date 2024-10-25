@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative AI Techniques**
 
-- 👯 I’m looking to collaborate on [AuraAssist Test](https://github.com/manemyamani/AuraAssist_Test)
+- 👯 I’m looking to collaborate on innovative projects that integrate AI techniques into MERN stack applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/manemyamani?tab=repositories](https://github.com/manemyamani?tab=repositories)
 

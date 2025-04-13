@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | Building with MERN | Java Developer | Computer Science Enthusiast</h3>
 <img align="right" alt="coding"width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on [Smart_Aura](https://github.com/manemyamani/voice_based_examination).
+- 🔭 I’m currently working on [Smart_Aura](https://github.com/manemyamani/voice_based_examination) project.
 
 - 🌱 I’m currently learning **Generative AI Techniques**
 

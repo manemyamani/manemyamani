@@ -2,13 +2,17 @@
 <h3 align="center">Aspiring Full-Stack Developer | Building with MERN | Java Developer | Computer Science Enthusiast</h3>
 <img align="right" alt="coding"width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on [Smart_Aura](https://github.com/manemyamani/voice_based_examination) project.
+- 🔭 I’m currently working on my portfolio.
 
 - 🌱 I’m currently learning **Generative AI Techniques**
 
 - 👯 I’m looking to collaborate on innovative projects that integrate AI techniques into MERN stack applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/manemyamani?tab=repositories](https://github.com/manemyamani?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/manemyamani?tab=repositories](https://github.com/manemyamani?tab=repositories).
+
+- My live projects are :
+                      1.https://focus-mate-five.vercel.app/
+                      2.https://authentication-one-mauve.vercel.app/
 
 - 📫 How to reach me **manemyamani003@gmail.com**
 
